@@ -1,3 +1,3 @@
 # Lab 1 – git
 # Druga linia
-# trzecia linia
+# TO JEST BLAD
