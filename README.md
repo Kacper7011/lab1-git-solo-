@@ -1,2 +1,2 @@
-# Projekt Alfa-Beta
+## Autor: Projekt Alfa-Beta
 # stopka
