@@ -1,1 +1,2 @@
 ## Autor: Kacper Siemieniako
+# stopka
