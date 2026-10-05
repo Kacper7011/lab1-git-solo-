@@ -1,3 +1,0 @@
-# Lab 1 – git
-# Druga linia
-# trzecia linia
