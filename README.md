@@ -1,2 +1,2 @@
-# Projekt Beta 
+# Projekt Alfa-Beta
 # stopka
