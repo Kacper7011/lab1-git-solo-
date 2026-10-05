@@ -4,3 +4,4 @@ nowsza linia
 jakas zmiana
 literowka test
 dodatkowa zmiana
+zmiana lokalna
