@@ -1,2 +1,2 @@
-## Autor: Kacper Siemieniako
+# Projekt Beta 
 # stopka
