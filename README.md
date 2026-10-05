@@ -1,2 +1,2 @@
-## Autor: Kacper Siemieniako
+# Projekt Alfa
 # stopka
